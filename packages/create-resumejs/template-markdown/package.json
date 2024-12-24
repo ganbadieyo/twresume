@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "private": true,
+  "scripts": {
+    "dev": "resume",
+    "build": "resume build",
+    "preview": "resume preview"
+  },
+  "dependencies": {
+    "@resumejs/components": "latest",
+    "@resumejs/resume": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
