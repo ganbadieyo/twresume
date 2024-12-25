@@ -98,16 +98,6 @@ github: 'https://github.com/Dunqing/resume'
 
 ### Github 开源大学
 
-|   专业   |       时间        |
-| :------: | :---------------: |
-| 开源捣鼓 | 2019.01 - 2021.01 |
-
-## 其他
-
-<p style="
-    display: flex;
-    justify-content: center;
-    padding: 0.5rem 0;
-">
-  <img src="//github-readme-stats.vercel.app/api?username=Dunqing&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-</p>
+|        专业        |       时间        |
+| :----------------: | :---------------: |
+| 数据科学与数据技术 | 2018.09 - 2022.06 |
